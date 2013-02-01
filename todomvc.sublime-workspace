@@ -1,0 +1,858 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Lemma",
+				"Lemmatizer"
+			],
+			[
+				"For",
+				"FormValue	string ƒ"
+			],
+			[
+				"ha",
+				"HandleFunc	*mux.Route ƒ"
+			],
+			[
+				"Fp",
+				"Fprintln	n int, err error ƒ"
+			],
+			[
+				"Fatal",
+				"Fatalf	 ƒ"
+			],
+			[
+				"TrimLeft",
+				"TrimLeftFunc	string ƒ"
+			],
+			[
+				"Trim",
+				"Trim	string ƒ"
+			],
+			[
+				"Pr",
+				"Print	 ƒ"
+			],
+			[
+				"Par",
+				"ParseDuration	time.Duration, error ƒ"
+			],
+			[
+				"S",
+				"Second	 Ɩ"
+			],
+			[
+				"s",
+				"Sleep	 ƒ"
+			],
+			[
+				"St",
+				"Stdout	*os.File ν"
+			],
+			[
+				"pr",
+				"Println	n int, err error ƒ"
+			],
+			[
+				"f",
+				"From	string ν"
+			],
+			[
+				"Std",
+				"Stdout	*os.File ν"
+			],
+			[
+				"Stat",
+				"StatusGone	 Ɩ"
+			],
+			[
+				"Po",
+				"PostForm	r *http.Response, err error ƒ"
+			],
+			[
+				"P",
+				"ParseForm	err error ƒ"
+			],
+			[
+				"lo",
+				"log"
+			],
+			[
+				"StatusI",
+				"StatusInternalServerError	 Ɩ"
+			],
+			[
+				"Ha",
+				"HandleFunc	 ƒ"
+			],
+			[
+				"Pri",
+				"Printf	n int, err error ƒ"
+			],
+			[
+				"Wr",
+				"ErrWriteAfterFlush	error ν"
+			],
+			[
+				"Copy",
+				"Copy	written int64, err error ƒ"
+			],
+			[
+				"Post",
+				"Post	r *http.Response, err error ƒ"
+			],
+			[
+				"Had",
+				"HandlerFunc	func(http.ResponseWriter, *http.Request) ʈ"
+			],
+			[
+				"Co",
+				"Cookies	[]*http.Cookie ƒ"
+			],
+			[
+				"File",
+				"FileServer	http.Handler ƒ"
+			],
+			[
+				"Pa",
+				"ParseFiles	*template.Template, error ƒ"
+			],
+			[
+				"Fprin",
+				"Fprintf	n int, err error ƒ"
+			],
+			[
+				"re",
+				"ResponseWriter	interface ¡"
+			],
+			[
+				"Hand",
+				"HandlerFunc	func(http.ResponseWriter, *http.Request) ʈ"
+			],
+			[
+				"Parse",
+				"ParseFiles	*template.Template, error ƒ"
+			],
+			[
+				"main",
+				"func main	func main {...} ʂ"
+			],
+			[
+				"t",
+				"twc	counter ν"
+			],
+			[
+				"Word",
+				"WordHitCount	 Ɩ"
+			],
+			[
+				"Twe",
+				"TweetCount	 Ɩ"
+			],
+			[
+				"Tweet",
+				"TweetCount	 Ɩ"
+			],
+			[
+				"TweetFil",
+				"TweetFilteredCount	 Ɩ"
+			],
+			[
+				"twet",
+				"TweetCount	 Ɩ"
+			],
+			[
+				"Tic",
+				"Tick	<-chan time.Time ƒ"
+			],
+			[
+				"L",
+				"Logger	l4g.Logger ν"
+			],
+			[
+				"I",
+				"Interface	interface ¡"
+			],
+			[
+				"Sp",
+				"Sprintf	string ƒ"
+			],
+			[
+				"p",
+				"Println	n int, err error ƒ"
+			],
+			[
+				"ma",
+				"main	main()"
+			],
+			[
+				"Write",
+				"WriteRune	n int, err error ƒ"
+			],
+			[
+				"Prin",
+				"Print	n int, err error ƒ"
+			],
+			[
+				"De",
+				"DecodeRuneInString	r rune, size int ƒ"
+			],
+			[
+				"Bu",
+				"NewBufferString	*bytes.Buffer ƒ"
+			],
+			[
+				"func",
+				"func	func {...} ʂ"
+			],
+			[
+				"com",
+				"commonPrefixInternal	string ƒ"
+			],
+			[
+				"pri",
+				"Printf	n int, err error ƒ"
+			],
+			[
+				"Decodelas",
+				"DecodeLastRuneInString	r rune, size int ƒ"
+			],
+			[
+				"de",
+				"DecodeRuneInString	r rune, size int ƒ"
+			],
+			[
+				"Dec",
+				"DecodeRuneInString	r rune, size int ƒ"
+			],
+			[
+				"word",
+				"word	string ν"
+			],
+			[
+				"fun",
+				"func	func {...} ʂ"
+			],
+			[
+				"rom",
+				"roman2decimal	string ƒ"
+			],
+			[
+				"Mi",
+				"Minute	 Ɩ"
+			],
+			[
+				"U",
+				"Uniqueid	string ν"
+			],
+			[
+				"us",
+				"Username	string ν"
+			],
+			[
+				"isP",
+				"IsPunct	bool ƒ"
+			],
+			[
+				"isS",
+				"IsSymbol	bool ƒ"
+			],
+			[
+				"Is",
+				"IsLetter	bool ƒ"
+			],
+			[
+				"Tr",
+				"TrimFunc	string ƒ"
+			],
+			[
+				"tr",
+				"TrimSpace	string ƒ"
+			],
+			[
+				"l",
+				"Lang	string ν"
+			],
+			[
+				"u",
+				"User	*httpstream.User ν"
+			],
+			[
+				"st",
+				"stats	statistics ν"
+			],
+			[
+				"im",
+				"import	import (...) ʂ"
+			],
+			[
+				"NU",
+				"NumGoroutine	int ƒ"
+			],
+			[
+				"new",
+				"NewWordTrail	*wordTrail ƒ"
+			],
+			[
+				"nEw",
+				"NewStorage	*storage ƒ"
+			],
+			[
+				"res",
+				"respCh	chan response ν"
+			],
+			[
+				"Re",
+				"Request	struct ʈ"
+			],
+			[
+				"No",
+				"Now	time.Time ƒ"
+			],
+			[
+				"renew",
+				"renewer	func(relev float64, instant time.Time) float64 ν"
+			],
+			[
+				"Tra",
+				"TrailRenFn	func(float64, time.Time) float64 ν"
+			],
+			[
+				"StD",
+				"stDel	 ν"
+			],
+			[
+				"trail",
+				"trailStrt	 Ɩ"
+			],
+			[
+				"N",
+				"Now	time.Time ƒ"
+			],
+			[
+				"rand",
+				"randomString	string ƒ"
+			],
+			[
+				"In",
+				"Intn	int ƒ"
+			],
+			[
+				"Nw",
+				"NewStorage	func ƒ"
+			],
+			[
+				"Int",
+				"ParseInt	i int64, err error ƒ"
+			],
+			[
+				"Num",
+				"NumGoroutine	int ƒ"
+			],
+			[
+				"tok",
+				"tokens	chan *Word ν"
+			],
+			[
+				"c",
+				"Created_at	string ν"
+			],
+			[
+				"Unix",
+				"UnixNano	int64 ƒ"
+			],
+			[
+				"Print",
+				"Println	n int, err error ƒ"
+			],
+			[
+				"Sq",
+				"Sqrt	float64 ƒ"
+			],
+			[
+				"Sqrt",
+				"Sqrt	float64 ƒ"
+			],
+			[
+				"Sma",
+				"SmallestNonzeroFloat64	 Ɩ"
+			],
+			[
+				"print",
+				"print_string"
+			],
+			[
+				"A",
+				"Atan	float64 ƒ"
+			],
+			[
+				"logback",
+				"logback_version"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "Go",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"Package Control: I",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"Install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package",
+				"Package Control: Install Package"
+			],
+			[
+				"GoSub",
+				"GoSublime: Install/Update MarGo and Gocode"
+			],
+			[
+				"GoSublime",
+				"GoSublime: Install/Update MarGo and Gocode"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"ss",
+				"Set Syntax: Groovy"
+			],
+			[
+				"ssg",
+				"Set Syntax: Groovy"
+			],
+			[
+				"ssob",
+				"Set Syntax: Objective-C"
+			],
+			[
+				"ssXM",
+				"Set Syntax: XML"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 139.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/mjemala/Work/sources/go/usr/src/langouste/webapp/main.go",
+		"/home/mjemala/Work/sources/go/usr/src/langouste/webapp/www/js/common.js",
+		"/home/mjemala/Work/sources/go/usr/src/langouste/webapp/www/js/tokenizer.js",
+		"/home/mjemala/Work/sources/go/usr/src/langouste/webapp/www/js/app/toklemdict.js",
+		"/home/mjemala/Work/sources/go/usr/src/langouste/webapp/build.js",
+		"/home/mjemala/Work/sources/go/usr/src/langouste/webapp/www-built/js/tokenizer.js",
+		"/home/mjemala/Work/sources/go/usr/src/langouste/webapp/www/js/lemmatizer.js",
+		"/home/mjemala/Work/sources/go/usr/src/langouste/webapp/www/js/toklemdict.js",
+		"/home/mjemala/Work/sources/go/usr/src/langouste/webapp/www/js/translator.js",
+		"/home/mjemala/Work/sources/go/usr/src/langouste/webapp/www-built/build.txt",
+		"/home/mjemala/.config/sublime-text-2/Packages/Default/Default (Linux).sublime-keymap",
+		"/home/mjemala/.config/sublime-text-2/Packages/User/Default (Linux).sublime-keymap",
+		"/home/mjemala/.config/sublime-text-2/Packages/GoSublime/CHANGELOG.md",
+		"/home/mjemala/Work/sources/go/usr/src/langouste/webapp/www/lemmatizer.html",
+		"/home/mjemala/Work/sources/go/usr/src/langouste/webapp/www/js/app/lemmatizer.js",
+		"/home/mjemala/Work/sources/go/usr/src/langouste/webapp/www/js/app/glosbe.js",
+		"/home/mjemala/Work/sources/go/usr/src/langouste/webapp/www/glosbe.html",
+		"/home/mjemala/Work/sources/go/usr/src/langouste/webapp/www/js/glosbe/main.js",
+		"/home/mjemala/Work/sources/go/usr/src/langouste/webapp/www/js/glosbe/glosbe.js",
+		"/home/mjemala/Work/sources/go/usr/src/langouste/webapp/www/js/lib/glosbe.js",
+		"/home/mjemala/Work/sources/go/usr/src/langouste/webapp/www/js/scripts/glosbe/main.js",
+		"/home/mjemala/Work/sources/go/usr/src/playground/mgo-sample.go",
+		"/home/mjemala/Work/sources/go/ext/src/labix.org/v2/mgo/bson/bson.go",
+		"/home/mjemala/Work/sources/go/usr/src/langouste/webapp/www/js/lib/glosbe2.js",
+		"/home/mjemala/Work/sources/go/usr/src/langouste/webapp/www/js/glosbe.js",
+		"/home/mjemala/Work/sources/go/usr/src/langouste/translator/glosbe/main.go",
+		"/home/mjemala/Work/sources/go/usr/src/langouste/translator/glosbe/albania.json",
+		"/home/mjemala/Work/sources/go/usr/src/langouste/examples/translator-glosbe.go",
+		"/home/mjemala/Libraries/Go/current/src/pkg/time/tick.go",
+		"/home/mjemala/Libraries/Go/current/src/pkg/time/format.go",
+		"/home/mjemala/Libraries/Go/current/src/pkg/time/time.go",
+		"/home/mjemala/Libraries/Go/current/src/pkg/strings/strings.go",
+		"/home/mjemala/Work/sources/go/usr/src/playground/lt.go",
+		"/home/mjemala/Libraries/Go/current/src/pkg/bufio/bufio.go",
+		"/home/mjemala/Libraries/Go/current/src/pkg/time/sleep.go",
+		"/home/mjemala/Work/sources/go/usr/src/langouste/translator/stardict/main.go",
+		"/home/mjemala/Work/sources/go/usr/src/langouste/examples/translator-stardict.go",
+		"/home/mjemala/Work/sources/go/usr/src/langouste/translator/types.go",
+		"/home/mjemala/Work/sources/go/usr/src/langouste/lemmatizer/main.go",
+		"/home/mjemala/Work/sources/go/usr/src/langouste/examples/lemmatizer.go",
+		"/home/mjemala/Libraries/Go/current/src/pkg/io/io.go",
+		"/home/mjemala/Libraries/Go/current/src/pkg/bytes/buffer.go",
+		"/home/mjemala/Libraries/Go/current/src/pkg/net/http/request.go",
+		"/home/mjemala/Libraries/Go/current/src/pkg/io/ioutil/ioutil.go",
+		"/home/mjemala/Work/sources/go/usr/src/langouste/webapp/www/toklemdict.html",
+		"/home/mjemala/Work/sources/go/usr/src/langouste/examples/glosbe.go",
+		"/home/mjemala/Work/sources/go/usr/src/langouste/examples/translator.go",
+		"/home/mjemala/Libraries/Go/current/src/pkg/net/http/client.go",
+		"/home/mjemala/Libraries/Go/current/src/pkg/net/http/response.go",
+		"/home/mjemala/Libraries/Go/current/src/pkg/net/http/status.go",
+		"/home/mjemala/Work/sources/go/usr/src/langouste/translator/mongodb.go",
+		"/home/mjemala/Work/sources/go/usr/src/langouste/translator/stardict.go",
+		"/home/mjemala/Work/sources/go/usr/src/langouste/lemmatizer/tag.go",
+		"/home/mjemala/Work/sources/go/usr/src/langouste/webapp/www/tokenizer.html",
+		"/home/mjemala/Work/sources/go/usr/src/langouste/tokenizer/web.go",
+		"/home/mjemala/Work/sources/go/usr/src/langouste/webapp/lemmatizer.go",
+		"/home/mjemala/Work/sources/go/usr/src/langouste/.gitignore",
+		"/home/mjemala/Work/sources/go/usr/src/langouste/lemmatizer/web.go",
+		"/home/mjemala/Work/sources/go/usr/src/langouste/lemmatizer/main_test.go",
+		"/home/mjemala/Work/sources/go/usr/src/langouste/tokenizer/tokenizer_test.go",
+		"/home/mjemala/Libraries/Go/current/src/pkg/log/log.go",
+		"/home/mjemala/Work/sources/go/usr/src/langouste/tokenizer/tokenizer.go",
+		"/home/mjemala/Libraries/Go/current/src/pkg/database/sql/sql.go",
+		"/home/mjemala/Libraries/Go/current/src/pkg/database/sql/driver/driver.go",
+		"/home/mjemala/Work/sources/go/usr/src/langouste/lemmatizer/lemmatizer.go",
+		"/home/mjemala/Work/sources/go/usr/src/langouste/examples/main.go",
+		"/home/mjemala/Work/sources/go/usr/src/twitterms-go/v2/twitterms/flow.go",
+		"/home/mjemala/Work/sources/go/usr/src/twitterms-go/examples/test_v1.go",
+		"/home/mjemala/Work/sources/go/usr/src/langouste/tokenizer/main.go",
+		"/home/mjemala/Work/sources/go/usr/src/twitterms-go/v2/twitterms/options.go",
+		"/home/mjemala/Work/sources/go/usr/src/twitterms-go/v2/twitterms/stats.go",
+		"/home/mjemala/Work/sources/go/usr/src/twitterms-go/v2/twitterms/tweet.go",
+		"/home/mjemala/Work/sources/go/usr/src/langouste/main.go",
+		"/home/mjemala/Libraries/Go/current/src/pkg/flag/flag.go",
+		"/home/mjemala/Work/sources/go/usr/src/twitterms-go/examples/test_v2.go",
+		"/home/mjemala/Work/sources/go/usr/src/progingo.project",
+		"/home/mjemala/Work/sources/go/usr/src/picasa-go-sample/index.html",
+		"/home/mjemala/Libraries/Go/current/src/pkg/html/template/template.go",
+		"/home/mjemala/Libraries/Go/current/src/pkg/net/http/fs.go",
+		"/home/mjemala/Work/sources/go/ext/src/code.google.com/p/goauth2/oauth/oauth.go",
+		"/home/mjemala/Libraries/Go/current/src/pkg/net/http/cookie.go",
+		"/home/mjemala/Libraries/Go/current/src/pkg/net/http/server.go",
+		"/home/mjemala/Work/sources/go/usr/src/picasa-go-sample/app.go",
+		"/home/mjemala/Work/sources/go/ext/src/github.com/apcera/nats/nats.go",
+		"/home/mjemala/Work/sources/go/ext/src/github.com/cloudfoundry/gonatsd/gonatsd/server.go",
+		"/home/mjemala/Work/sources/go/ext/src/github.com/cloudfoundry/gonatsd/gonatsd/config.go",
+		"/home/mjemala/Work/sources/go/ext/src/github.com/cloudfoundry/gonatsd/gonatsd/conn.go",
+		"/home/mjemala/Work/sources/go/ext/src/github.com/cloudfoundry/gonatsd/gonatsd/heartbeat_helper.go",
+		"/home/mjemala/Work/sources/go/ext/src/github.com/cloudfoundry/gonatsd/gonatsd/request.go",
+		"/home/mjemala/Work/sources/go/ext/src/github.com/cloudfoundry/gonatsd/gonatsd/client_cmd.go",
+		"/home/mjemala/Work/sources/go/ext/src/github.com/cloudfoundry/gonatsd/gonatsd/server_cmd.go",
+		"/home/mjemala/Work/sources/go/ext/src/github.com/cloudfoundry/gonatsd/config/gonatsd.yml",
+		"/home/mjemala/Libraries/Go/current/src/pkg/reflect/value.go",
+		"/home/mjemala/Libraries/Go/current/src/pkg/reflect/type.go",
+		"/home/mjemala/Libraries/Go/current/src/pkg/fmt/print.go",
+		"/home/mjemala/Libraries/Go/current/src/pkg/runtime/extern.go",
+		"/home/mjemala/Work/sources/go/usr/src/bigdigits/0123456789.txt",
+		"/home/mjemala/Work/sources/go/ext/src/github.com/apcera/nats/examples/nats-pub.go",
+		"/home/mjemala/Work/sources/go/ext/src/github.com/apcera/nats/enc.go",
+		"/home/mjemala/Work/sources/go/ext/src/github.com/apcera/nats/README.md",
+		"/home/mjemala/Libraries/Go/current/src/pkg/net/url/url.go",
+		"/home/mjemala/Work/sources/go/usr/src/twitterms-go/v2/twitterms/storage.go",
+		"/home/mjemala/Work/sources/go/ext/src/code.google.com/p/log4go/log4go.go",
+		"/home/mjemala/Work/sources/go/usr/src/playground/twitterms.go",
+		"/home/mjemala/Work/sources/go/usr/src/twitterms_v2/flow.go",
+		"/home/mjemala/Work/sources/go/usr/src/twitterms_v2/examples/test.go",
+		"/home/mjemala/Work/sources/go/usr/src/twitterms_v2/storage.go",
+		"/home/mjemala/Work/sources/go/usr/src/twitterms_v2/stats.go",
+		"/home/mjemala/Work/sources/go/usr/src/twitterms_v2/tweet.go",
+		"/home/mjemala/Work/sources/go/usr/src/twitterms_v2/options.go",
+		"/home/mjemala/Work/sources/go/usr/src/twitterms_v2/test.go",
+		"/home/mjemala/Libraries/Go/current/src/pkg/sync/mutex.go",
+		"/home/mjemala/Work/sources/go/usr/src/twitterms_v1/storage.go",
+		"/home/mjemala/Work/sources/go/usr/src/twitterms_v2/trail.go",
+		"/home/mjemala/Work/sources/go/usr/src/twitterms_v1/tweet.go",
+		"/home/mjemala/Work/sources/go/usr/src/twitterms_v1/trail.go",
+		"/home/mjemala/Libraries/Go/current/src/pkg/errors/errors.go",
+		"/home/mjemala/Work/sources/go/ext/src/github.com/araddon/httpstream/stream.go",
+		"/home/mjemala/Work/sources/go/usr/src/playground/load_balancer.go",
+		"/home/mjemala/Work/sources/go/usr/src/playground/inheritance.go",
+		"/home/mjemala/Work/sources/go/usr/src/playground/decor.go",
+		"/home/mjemala/Libraries/Go/current/src/pkg/encoding/binary/binary.go",
+		"/home/mjemala/Libraries/Go/current/src/pkg/os/file.go",
+		"/home/mjemala/Work/sources/go/ext/src/bitbucket.org/santucco/btree/btree.go",
+		"/home/mjemala/Work/sources/go/usr/src/playground/common_prefix.go",
+		"/home/mjemala/Work/sources/go/usr/src/common_prefix/common_prefix.go",
+		"/home/mjemala/Work/sources/go/usr/src/palindrome_ans/palindrome.go",
+		"/home/mjemala/Work/sources/go/usr/src/playground/breaklabel.go"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"Side",
+			"data",
+			"Read(",
+			"opened",
+			"String()",
+			"Parse\nParse(",
+			"Parse\nParse",
+			"Parse",
+			"readCookies",
+			"\")\n",
+			"{\n",
+			"hartbeat",
+			"inbox",
+			"processLine",
+			"_ERR_OP_",
+			"unsubProto",
+			"subProto",
+			"pubProto",
+			"unsubProto",
+			"subProto",
+			"unsafe",
+			"processOK",
+			"fch",
+			"twe",
+			"ftw",
+			"raw",
+			"TOK",
+			"TWE",
+			"FTW",
+			"RAW",
+			"{\n",
+			"	",
+			"bo",
+			"\"\n",
+			"}\n",
+			"UniqueId",
+			"fammily",
+			"familly",
+			"}\n",
+			"{\n",
+			"Delete",
+			"aged",
+			"type RangeTable",
+			"RangeTable",
+			"decodeRuneInString",
+			"NewStreamConn",
+			"Close",
+			"Close\n\n\nClose",
+			"<-",
+			"<- done",
+			"done",
+			"NewStreamConn",
+			":",
+			"ht",
+			"httpstream",
+			"Log",
+			"Int64Nullable",
+			"oauthConnect",
+			"Connect",
+			"\n\nConnect",
+			"\n\nConnect(",
+			"Connect",
+			"\n",
+			"	\n",
+			"Pow2",
+			"Pow",
+			"Sqrt2",
+			"}\n",
+			"\")\n",
+			"  ",
+			"simpleJdbcTemplate",
+			"speedTest4",
+			"TP201210111328192851",
+			"TP2012101113331042647",
+			"2012-10-11 13:32:09,839",
+			"2012-10-11 13:32:09,839\n\n2012-10-11 13:32:09,839\n2012-10-11 13:32:09,839",
+			"2012-10-11 13:32:14,519 com.finbird.fixgw.core.mdb.FixSessionMDB [INFO] speedTest5.1=AdminMessageDTO [command=trade_request, inetrnalSessionId=ysalame_1, marketMakerId=1, requestDTO=TradeRequestDTO [clientDTO=ClientDTO [accountType=1, back2Back=false, clientId=190, comInPrice=true, counterPartyId=12424, currency=USD, dealerID=0, equity=7.629207728E7, firm=0, isBroker=false, leverage=1, marginUsed=4.3727322E7, marketMakerId=1, password=123456, spreadCode=12, status=1, username=ysalame], instrumentDTO=InstrumentDTO [contractSize=0.0, currency1=EUR, currency2=USD, currencyName=EUR/USD, dec=5, enable=true, instCode=1, lotSize=0.0, marketMakerAncestorId=1, marketMakerId=1, numOfSubscribers=0, operationToCommMethodMap={1=1, 2=1, 3=5}], newOrderSingle=8=FIX.4.29=16435=D34=4749=ysalame52=20121011-13:33:10.42656=FINOLOGIC115=111=TP201210111333104264721=138=10000040=244=1.3144354=255=EUR/USD59=460=20121011-13:33:1010=160]] sid=ysalame_1",
+			"speedTest4",
+			"TP2012101113331042647",
+			"13:32:09",
+			"0",
+			"’",
+			"float64",
+			"preperBasicBidAskPriceQuoteEvent",
+			"marketMaker1SessionsManager",
+			"marketMaker1RateManagerBean",
+			"Spring",
+			"jetty_version",
+			"slf4j_version",
+			"logback_version",
+			"spring_security_oauth2_version",
+			"spring_version",
+			"app.archive.library"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"twc",
+			"tfc",
+			"byc",
+			"TokenCount",
+			"TweetCount",
+			"TweetFilteredCount",
+			"ByteCount",
+			"    ",
+			"hs",
+			"ht",
+			"	",
+			"'",
+			"jettyVersion",
+			"slf4jVersion",
+			"logbackVersion",
+			"springSecurityOauth2Version",
+			"springVersion"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.9o:///home/mjemala/Work/sources/go/usr/src/playground":
+	{
+		"height": 112.0
+	},
+	"output.GsDepends-output":
+	{
+		"height": 112.0
+	},
+	"output.GsDoc-output-output":
+	{
+		"height": 112.0
+	},
+	"output.exec":
+	{
+		"height": 238.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"356",
+				"1.4 Big Digits/0123456789.txt"
+			],
+			[
+				"america",
+				"1.6 Americanise/americanise.go"
+			],
+			[
+				"jpeg",
+				"Go Library/image/jpeg/fdct.go"
+			],
+			[
+				"time_test",
+				"Go Library/time/time_test.go"
+			],
+			[
+				"string.",
+				"Go Library/strings/strings.go"
+			],
+			[
+				"sqrt",
+				"Go Library/math/sqrt.go"
+			],
+			[
+				"sample1",
+				"My Go Packages/concur/sample1.go"
+			],
+			[
+				"build.gradle",
+				"multiproject/build.gradle"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/home/mjemala/Work/sources/go/usr/src/progingo.project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 270.0,
+	"status_bar_visible": true
+}

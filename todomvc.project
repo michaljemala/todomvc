@@ -1,0 +1,18 @@
+{
+    "folders":
+    [
+        {
+            "path": "architecture-examples",
+            "name": "Architecture Examples"
+        },
+        {
+            "path": "dependency-examples",
+            "name": "Dependency Examples"
+        },
+	{
+            "path": "vanilla-examples",
+            "name": "Vanilla Examples"
+        }
+    ]
+}
+
